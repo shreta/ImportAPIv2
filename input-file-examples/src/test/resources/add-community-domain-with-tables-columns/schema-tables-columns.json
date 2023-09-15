@@ -2,7 +2,7 @@
   {
     "resourceType": "Community",
     "identifier": {
-      "name": "DBs Community"
+      "name": "Import POC Community"
     }
   },
   {
@@ -10,7 +10,7 @@
     "identifier": {
       "name": "Physical Domain",
       "community": {
-        "name": "DBs Community"
+        "name": "Import POC Community"
       }
     },
     "type": {
@@ -24,7 +24,7 @@
       "domain": {
         "name": "Physical Domain",
         "community": {
-          "name": "DBs Community"
+          "name": "Import POC Community"
         }
       }
     },
@@ -39,7 +39,7 @@
       "domain": {
         "name": "Physical Domain",
         "community": {
-          "name": "DBs Community"
+          "name": "Import POC Community"
         }
       }
     },
@@ -53,7 +53,7 @@
           "domain": {
             "name": "Physical Domain",
             "community": {
-              "name": "DBs Community"
+              "name": "Import POC Community"
             }
           }
         }
@@ -67,7 +67,7 @@
       "domain": {
         "name": "Physical Domain",
         "community": {
-          "name": "DBs Community"
+          "name": "Import POC Community"
         }
       }
     },
@@ -81,7 +81,7 @@
           "domain": {
             "name": "Physical Domain",
             "community": {
-              "name": "DBs Community"
+              "name": "Import POC Community"
             }
           }
         }
@@ -95,7 +95,7 @@
       "domain": {
         "name": "Physical Domain",
         "community": {
-          "name": "DBs Community"
+          "name": "Import POC Community"
         }
       }
     },
@@ -109,7 +109,7 @@
           "domain": {
             "name": "Physical Domain",
             "community": {
-              "name": "DBs Community"
+              "name": "Import POC Community"
             }
           }
         }
@@ -123,7 +123,7 @@
       "domain": {
         "name": "Physical Domain",
         "community": {
-          "name": "DBs Community"
+          "name": "Import POC Community"
         }
       }
     },
@@ -137,7 +137,7 @@
           "domain": {
             "name": "Physical Domain",
             "community": {
-              "name": "DBs Community"
+              "name": "Import POC Community"
             }
           }
         }
@@ -151,7 +151,7 @@
       "domain": {
         "name": "Physical Domain",
         "community": {
-          "name": "DBs Community"
+          "name": "Import POC Community"
         }
       }
     },
@@ -165,7 +165,7 @@
           "domain": {
             "name": "Physical Domain",
             "community": {
-              "name": "DBs Community"
+              "name": "Import POC Community"
             }
           }
         }
